@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrita Kadyan</h1>
 <h3 align="center">A passionate developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amriita&label=Profile%20views&color=0e75b6&style=flat" alt="Amriita" /> </p>
 
 <p align="left"> <a href="https://github.com/Amriita?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"  /></a> </p>
-
-<p align="left"> <a href="https://github.com/Amriita?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"  /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack and System Design**
 
