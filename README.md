@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amriita&label=Profile%20views&color=0e75b6&style=flat" alt="Amriita" /> </p>
 
-<p align="left"> <a href="https://github.com/Amriita?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"  /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack and System Design**
 
 - 🌱 I’m currently learning **Kafka System Design DSA**
